@@ -1,0 +1,14 @@
+c:\users\murat\documents\visual studio 2010\Projects\Var Mısın Yok Musun v1.0\Var Mısın Yok Musun v1.0\bin\Debug\Var Mısın Yok Musun v1.0.exe
+c:\users\murat\documents\visual studio 2010\Projects\Var Mısın Yok Musun v1.0\Var Mısın Yok Musun v1.0\bin\Debug\Var Mısın Yok Musun v1.0.pdb
+c:\users\murat\documents\visual studio 2010\Projects\Var Mısın Yok Musun v1.0\Var Mısın Yok Musun v1.0\obj\x86\Debug\Var_Mısın_Yok_Musun_v1._0.Form1.resources
+c:\users\murat\documents\visual studio 2010\Projects\Var Mısın Yok Musun v1.0\Var Mısın Yok Musun v1.0\obj\x86\Debug\Var_Mısın_Yok_Musun_v1._0.Properties.Resources.resources
+c:\users\murat\documents\visual studio 2010\Projects\Var Mısın Yok Musun v1.0\Var Mısın Yok Musun v1.0\obj\x86\Debug\Var Mısın Yok Musun v1.0.csproj.GenerateResource.Cache
+c:\users\murat\documents\visual studio 2010\Projects\Var Mısın Yok Musun v1.0\Var Mısın Yok Musun v1.0\obj\x86\Debug\Var Mısın Yok Musun v1.0.exe
+c:\users\murat\documents\visual studio 2010\Projects\Var Mısın Yok Musun v1.0\Var Mısın Yok Musun v1.0\obj\x86\Debug\Var Mısın Yok Musun v1.0.pdb
+G:\ \4 PROGRAMLAMA\1 C# 2012\U-Z\Var Mısın Yok Musun v1.0\Var Mısın Yok Musun v1.0\obj\x86\Debug\Var Mısın Yok Musun v1.0.exe
+G:\ \4 PROGRAMLAMA\1 C# 2012\U-Z\Var Mısın Yok Musun v1.0\Var Mısın Yok Musun v1.0\obj\x86\Debug\Var Mısın Yok Musun v1.0.pdb
+G:\ \4 PROGRAMLAMA\1 C# 2012\U-Z\Var Mısın Yok Musun v1.0\Var Mısın Yok Musun v1.0\bin\Debug\Var Mısın Yok Musun v1.0.exe
+G:\ \4 PROGRAMLAMA\1 C# 2012\U-Z\Var Mısın Yok Musun v1.0\Var Mısın Yok Musun v1.0\bin\Debug\Var Mısın Yok Musun v1.0.pdb
+G:\ \4 PROGRAMLAMA\1 C# 2012\U-Z\Var Mısın Yok Musun v1.0\Var Mısın Yok Musun v1.0\obj\x86\Debug\Var_Mısın_Yok_Musun_v1._0.Form1.resources
+G:\ \4 PROGRAMLAMA\1 C# 2012\U-Z\Var Mısın Yok Musun v1.0\Var Mısın Yok Musun v1.0\obj\x86\Debug\Var_Mısın_Yok_Musun_v1._0.Properties.Resources.resources
+G:\ \4 PROGRAMLAMA\1 C# 2012\U-Z\Var Mısın Yok Musun v1.0\Var Mısın Yok Musun v1.0\obj\x86\Debug\Var Mısın Yok Musun v1.0.csproj.GenerateResource.Cache
